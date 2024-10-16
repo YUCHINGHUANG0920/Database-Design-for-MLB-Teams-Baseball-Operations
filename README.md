@@ -6,6 +6,9 @@ This project focuses on building a normalized MySQL database to store FanGraphs 
 
 The analysis covers the past decade (2014-2023), allowing us to uncover trends in player and team performance. By consolidating this historical data, we can gain insights into player development pathways and team dynamics within the evolving landscape of baseball operations.
 
+For the last step "Connecting to a MySQL database and Inserting DataFrames", we should set a specific database in our own MySQL account. After modifying the necessary information on the Python script, we will be able to insert the ready dataframes into the database.
+
+
 ### How to use this MySQL database for futher analysis?
 After establishing the tables and defining primary key (PK) and foreign key (FK) relationships in MySQL, we can use SQL queries for analysis.
 
